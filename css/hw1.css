@@ -70,3 +70,37 @@ margin-top:0;
 .right{
 padding:2px;
 }
+
+table{
+padding:10px 30px 10px 30px;
+margin-left: 60px;
+width:70%;
+
+}
+th{
+background-color:#808000;
+border: 2px solid #77b300;
+color: rgb(255, 255, 255);
+border-radius:5px;
+padding:15px; 
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.team{
+float:left;
+}
+tr{
+background-color:#e6ffb3;
+}
+
+tr:hover {
+background-color: #f5f5f5;
+}
+
+td{
+text-align: center;
+padding:10px;
+font-family: Arial, Helvetica, sans-serif;
+border:2px;
+}
